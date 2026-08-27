@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import './spotify.css';
 
 export const metadata: Metadata = {
   title: 'Y2K PLAYER',
